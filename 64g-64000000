@@ -1,0 +1,4 @@
+tarting index build...
+Number of syncs: 40
+build_disk_index: /home/node/ann/diskann/DiskANN-master/src/index.cpp:638: void diskann::Index<T, TagT>::batch_inter_insert(unsigned int, const std::vector<unsigned int>&, const diskann::Parameters&, std::vector<unsigned int>&) [with T = float; TagT = int]: Assertion `des >= 0 && des < _max_points' failed.
+[1]    3331360 abort (core dumped)  ./tests/build_disk_index float mips /home/node/ann/dataset/data200/data200
