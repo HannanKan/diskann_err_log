@@ -1,0 +1,997 @@
+Lloyd's iter 9  dist_sq residual: 6.13822
+Lloyd's iter 10  dist_sq residual: 6.12121
+Lloyd's iter 11  dist_sq residual: 6.10384
+Processing chunk 39 with dimensions [79, 81)
+Selecting 256 pivots from 99700 points using random seed 67475828: ........done.
+Lloyd's iter 0  dist_sq residual: 7.56375
+Lloyd's iter 1  dist_sq residual: 6.92616
+Lloyd's iter 2  dist_sq residual: 6.67453
+Lloyd's iter 3  dist_sq residual: 6.52944
+Lloyd's iter 4  dist_sq residual: 6.42347
+Lloyd's iter 5  dist_sq residual: 6.34874
+Lloyd's iter 6  dist_sq residual: 6.29278
+Lloyd's iter 7  dist_sq residual: 6.24932
+Lloyd's iter 8  dist_sq residual: 6.21014
+Lloyd's iter 9  dist_sq residual: 6.17986
+Lloyd's iter 10  dist_sq residual: 6.15307
+Lloyd's iter 11  dist_sq residual: 6.13063
+Processing chunk 40 with dimensions [81, 83)
+Selecting 256 pivots from 99700 points using random seed 1279221176: ........done.
+Lloyd's iter 0  dist_sq residual: 8.19625
+Lloyd's iter 1  dist_sq residual: 7.50319
+Lloyd's iter 2  dist_sq residual: 7.23591
+Lloyd's iter 3  dist_sq residual: 7.08345
+Lloyd's iter 4  dist_sq residual: 6.97943
+Lloyd's iter 5  dist_sq residual: 6.90445
+Lloyd's iter 6  dist_sq residual: 6.85337
+Lloyd's iter 7  dist_sq residual: 6.81215
+Lloyd's iter 8  dist_sq residual: 6.77856
+Lloyd's iter 9  dist_sq residual: 6.75134
+Lloyd's iter 10  dist_sq residual: 6.72718
+Lloyd's iter 11  dist_sq residual: 6.70692
+Processing chunk 41 with dimensions [83, 85)
+Selecting 256 pivots from 99700 points using random seed 584328040: ........done.
+Lloyd's iter 0  dist_sq residual: 8.09044
+Lloyd's iter 1  dist_sq residual: 7.31227
+Lloyd's iter 2  dist_sq residual: 7.04121
+Lloyd's iter 3  dist_sq residual: 6.89934
+Lloyd's iter 4  dist_sq residual: 6.81308
+Lloyd's iter 5  dist_sq residual: 6.75157
+Lloyd's iter 6  dist_sq residual: 6.70812
+Lloyd's iter 7  dist_sq residual: 6.67087
+Lloyd's iter 8  dist_sq residual: 6.64036
+Lloyd's iter 9  dist_sq residual: 6.61661
+Lloyd's iter 10  dist_sq residual: 6.59695
+Lloyd's iter 11  dist_sq residual: 6.58237
+Processing chunk 42 with dimensions [85, 87)
+Selecting 256 pivots from 99700 points using random seed 2917844343: ........done.
+Lloyd's iter 0  dist_sq residual: 8.52277
+Lloyd's iter 1  dist_sq residual: 7.78519
+Lloyd's iter 2  dist_sq residual: 7.49487
+Lloyd's iter 3  dist_sq residual: 7.33485
+Lloyd's iter 4  dist_sq residual: 7.23247
+Lloyd's iter 5  dist_sq residual: 7.16426
+Lloyd's iter 6  dist_sq residual: 7.11688
+Lloyd's iter 7  dist_sq residual: 7.07901
+Lloyd's iter 8  dist_sq residual: 7.0489
+Lloyd's iter 9  dist_sq residual: 7.02271
+Lloyd's iter 10  dist_sq residual: 7.00155
+Lloyd's iter 11  dist_sq residual: 6.98284
+Processing chunk 43 with dimensions [87, 89)
+Selecting 256 pivots from 99700 points using random seed 2551187537: ........done.
+Lloyd's iter 0  dist_sq residual: 7.52106
+Lloyd's iter 1  dist_sq residual: 6.83952
+Lloyd's iter 2  dist_sq residual: 6.62539
+Lloyd's iter 3  dist_sq residual: 6.5131
+Lloyd's iter 4  dist_sq residual: 6.43719
+Lloyd's iter 5  dist_sq residual: 6.38276
+Lloyd's iter 6  dist_sq residual: 6.34084
+Lloyd's iter 7  dist_sq residual: 6.30778
+Lloyd's iter 8  dist_sq residual: 6.28234
+Lloyd's iter 9  dist_sq residual: 6.26196
+Lloyd's iter 10  dist_sq residual: 6.24332
+Lloyd's iter 11  dist_sq residual: 6.22748
+Processing chunk 44 with dimensions [89, 91)
+Selecting 256 pivots from 99700 points using random seed 4257720618: ........done.
+Lloyd's iter 0  dist_sq residual: 7.14449
+Lloyd's iter 1  dist_sq residual: 6.55701
+Lloyd's iter 2  dist_sq residual: 6.32763
+Lloyd's iter 3  dist_sq residual: 6.19708
+Lloyd's iter 4  dist_sq residual: 6.11975
+Lloyd's iter 5  dist_sq residual: 6.06968
+Lloyd's iter 6  dist_sq residual: 6.03167
+Lloyd's iter 7  dist_sq residual: 6.00174
+Lloyd's iter 8  dist_sq residual: 5.97643
+Lloyd's iter 9  dist_sq residual: 5.95752
+Lloyd's iter 10  dist_sq residual: 5.94268
+Lloyd's iter 11  dist_sq residual: 5.93026
+Processing chunk 45 with dimensions [91, 93)
+Selecting 256 pivots from 99700 points using random seed 4244879951: ........done.
+Lloyd's iter 0  dist_sq residual: 7.45874
+Lloyd's iter 1  dist_sq residual: 6.78539
+Lloyd's iter 2  dist_sq residual: 6.54501
+Lloyd's iter 3  dist_sq residual: 6.4201
+Lloyd's iter 4  dist_sq residual: 6.34138
+Lloyd's iter 5  dist_sq residual: 6.28403
+Lloyd's iter 6  dist_sq residual: 6.23999
+Lloyd's iter 7  dist_sq residual: 6.19888
+Lloyd's iter 8  dist_sq residual: 6.16304
+Lloyd's iter 9  dist_sq residual: 6.13502
+Lloyd's iter 10  dist_sq residual: 6.11317
+Lloyd's iter 11  dist_sq residual: 6.09509
+Processing chunk 46 with dimensions [93, 95)
+Selecting 256 pivots from 99700 points using random seed 3516547474: ........done.
+Lloyd's iter 0  dist_sq residual: 7.67682
+Lloyd's iter 1  dist_sq residual: 6.93835
+Lloyd's iter 2  dist_sq residual: 6.67818
+Lloyd's iter 3  dist_sq residual: 6.54416
+Lloyd's iter 4  dist_sq residual: 6.45869
+Lloyd's iter 5  dist_sq residual: 6.40201
+Lloyd's iter 6  dist_sq residual: 6.35928
+Lloyd's iter 7  dist_sq residual: 6.32766
+Lloyd's iter 8  dist_sq residual: 6.30175
+Lloyd's iter 9  dist_sq residual: 6.28042
+Lloyd's iter 10  dist_sq residual: 6.2619
+Lloyd's iter 11  dist_sq residual: 6.24578
+Processing chunk 47 with dimensions [95, 97)
+Selecting 256 pivots from 99700 points using random seed 4202350851: ........done.
+Lloyd's iter 0  dist_sq residual: 7.85682
+Lloyd's iter 1  dist_sq residual: 7.14167
+Lloyd's iter 2  dist_sq residual: 6.90225
+Lloyd's iter 3  dist_sq residual: 6.77759
+Lloyd's iter 4  dist_sq residual: 6.69548
+Lloyd's iter 5  dist_sq residual: 6.63681
+Lloyd's iter 6  dist_sq residual: 6.59024
+Lloyd's iter 7  dist_sq residual: 6.55465
+Lloyd's iter 8  dist_sq residual: 6.52511
+Lloyd's iter 9  dist_sq residual: 6.50199
+Lloyd's iter 10  dist_sq residual: 6.48182
+Lloyd's iter 11  dist_sq residual: 6.46659
+Processing chunk 48 with dimensions [97, 99)
+Selecting 256 pivots from 99700 points using random seed 3745805602: ........done.
+Lloyd's iter 0  dist_sq residual: 7.27661
+Lloyd's iter 1  dist_sq residual: 6.65577
+Lloyd's iter 2  dist_sq residual: 6.40995
+Lloyd's iter 3  dist_sq residual: 6.27045
+Lloyd's iter 4  dist_sq residual: 6.179
+Lloyd's iter 5  dist_sq residual: 6.11697
+Lloyd's iter 6  dist_sq residual: 6.0742
+Lloyd's iter 7  dist_sq residual: 6.04319
+Lloyd's iter 8  dist_sq residual: 6.02047
+Lloyd's iter 9  dist_sq residual: 6.0027
+Lloyd's iter 10  dist_sq residual: 5.98739
+Lloyd's iter 11  dist_sq residual: 5.97338
+Processing chunk 49 with dimensions [99, 101)
+Selecting 256 pivots from 99700 points using random seed 1322126134: ........done.
+Lloyd's iter 0  dist_sq residual: 8.10072
+Lloyd's iter 1  dist_sq residual: 7.37587
+Lloyd's iter 2  dist_sq residual: 7.12499
+Lloyd's iter 3  dist_sq residual: 7.00585
+Lloyd's iter 4  dist_sq residual: 6.92815
+Lloyd's iter 5  dist_sq residual: 6.87092
+Lloyd's iter 6  dist_sq residual: 6.82716
+Lloyd's iter 7  dist_sq residual: 6.79002
+Lloyd's iter 8  dist_sq residual: 6.75907
+Lloyd's iter 9  dist_sq residual: 6.73251
+Lloyd's iter 10  dist_sq residual: 6.71144
+Lloyd's iter 11  dist_sq residual: 6.6892
+Processing chunk 50 with dimensions [101, 103)
+Selecting 256 pivots from 99700 points using random seed 3928212365: ........done.
+Lloyd's iter 0  dist_sq residual: 7.84159
+Lloyd's iter 1  dist_sq residual: 7.1097
+Lloyd's iter 2  dist_sq residual: 6.84581
+Lloyd's iter 3  dist_sq residual: 6.70248
+Lloyd's iter 4  dist_sq residual: 6.61467
+Lloyd's iter 5  dist_sq residual: 6.55347
+Lloyd's iter 6  dist_sq residual: 6.50846
+Lloyd's iter 7  dist_sq residual: 6.47397
+Lloyd's iter 8  dist_sq residual: 6.44651
+Lloyd's iter 9  dist_sq residual: 6.42254
+Lloyd's iter 10  dist_sq residual: 6.40339
+Lloyd's iter 11  dist_sq residual: 6.38697
+Processing chunk 51 with dimensions [103, 105)
+Selecting 256 pivots from 99700 points using random seed 1298194516: ........done.
+Lloyd's iter 0  dist_sq residual: 7.49057
+Lloyd's iter 1  dist_sq residual: 6.83273
+Lloyd's iter 2  dist_sq residual: 6.56998
+Lloyd's iter 3  dist_sq residual: 6.42713
+Lloyd's iter 4  dist_sq residual: 6.34484
+Lloyd's iter 5  dist_sq residual: 6.28546
+Lloyd's iter 6  dist_sq residual: 6.24017
+Lloyd's iter 7  dist_sq residual: 6.20415
+Lloyd's iter 8  dist_sq residual: 6.17494
+Lloyd's iter 9  dist_sq residual: 6.15035
+Lloyd's iter 10  dist_sq residual: 6.12976
+Lloyd's iter 11  dist_sq residual: 6.11069
+Processing chunk 52 with dimensions [105, 107)
+Selecting 256 pivots from 99700 points using random seed 2821394564: ........done.
+Lloyd's iter 0  dist_sq residual: 7.03821
+Lloyd's iter 1  dist_sq residual: 6.43871
+Lloyd's iter 2  dist_sq residual: 6.21976
+Lloyd's iter 3  dist_sq residual: 6.102
+Lloyd's iter 4  dist_sq residual: 6.03055
+Lloyd's iter 5  dist_sq residual: 5.97679
+Lloyd's iter 6  dist_sq residual: 5.93655
+Lloyd's iter 7  dist_sq residual: 5.90404
+Lloyd's iter 8  dist_sq residual: 5.87457
+Lloyd's iter 9  dist_sq residual: 5.85071
+Lloyd's iter 10  dist_sq residual: 5.83092
+Lloyd's iter 11  dist_sq residual: 5.81442
+Processing chunk 53 with dimensions [107, 109)
+Selecting 256 pivots from 99700 points using random seed 3754559352: ........done.
+Lloyd's iter 0  dist_sq residual: 8.23682
+Lloyd's iter 1  dist_sq residual: 7.62496
+Lloyd's iter 2  dist_sq residual: 7.40058
+Lloyd's iter 3  dist_sq residual: 7.2806
+Lloyd's iter 4  dist_sq residual: 7.20954
+Lloyd's iter 5  dist_sq residual: 7.1612
+Lloyd's iter 6  dist_sq residual: 7.12364
+Lloyd's iter 7  dist_sq residual: 7.09341
+Lloyd's iter 8  dist_sq residual: 7.06845
+Lloyd's iter 9  dist_sq residual: 7.04687
+Lloyd's iter 10  dist_sq residual: 7.02732
+Lloyd's iter 11  dist_sq residual: 7.01142
+Processing chunk 54 with dimensions [109, 111)
+Selecting 256 pivots from 99700 points using random seed 1674792775: ........done.
+Lloyd's iter 0  dist_sq residual: 7.78886
+Lloyd's iter 1  dist_sq residual: 7.21034
+Lloyd's iter 2  dist_sq residual: 6.99703
+Lloyd's iter 3  dist_sq residual: 6.86995
+Lloyd's iter 4  dist_sq residual: 6.78651
+Lloyd's iter 5  dist_sq residual: 6.72375
+Lloyd's iter 6  dist_sq residual: 6.67659
+Lloyd's iter 7  dist_sq residual: 6.63739
+Lloyd's iter 8  dist_sq residual: 6.60448
+Lloyd's iter 9  dist_sq residual: 6.57516
+Lloyd's iter 10  dist_sq residual: 6.55052
+Lloyd's iter 11  dist_sq residual: 6.53012
+Processing chunk 55 with dimensions [111, 113)
+Selecting 256 pivots from 99700 points using random seed 680045501: ........done.
+Lloyd's iter 0  dist_sq residual: 7.78962
+Lloyd's iter 1  dist_sq residual: 7.19517
+Lloyd's iter 2  dist_sq residual: 6.96716
+Lloyd's iter 3  dist_sq residual: 6.84719
+Lloyd's iter 4  dist_sq residual: 6.77276
+Lloyd's iter 5  dist_sq residual: 6.71845
+Lloyd's iter 6  dist_sq residual: 6.67337
+Lloyd's iter 7  dist_sq residual: 6.63471
+Lloyd's iter 8  dist_sq residual: 6.6043
+Lloyd's iter 9  dist_sq residual: 6.58012
+Lloyd's iter 10  dist_sq residual: 6.56026
+Lloyd's iter 11  dist_sq residual: 6.54336
+Processing chunk 56 with dimensions [113, 115)
+Selecting 256 pivots from 99700 points using random seed 3966528993: ........done.
+Lloyd's iter 0  dist_sq residual: 7.98098
+Lloyd's iter 1  dist_sq residual: 7.2399
+Lloyd's iter 2  dist_sq residual: 6.93395
+Lloyd's iter 3  dist_sq residual: 6.76817
+Lloyd's iter 4  dist_sq residual: 6.66543
+Lloyd's iter 5  dist_sq residual: 6.60129
+Lloyd's iter 6  dist_sq residual: 6.55879
+Lloyd's iter 7  dist_sq residual: 6.52897
+Lloyd's iter 8  dist_sq residual: 6.50411
+Lloyd's iter 9  dist_sq residual: 6.48487
+Lloyd's iter 10  dist_sq residual: 6.46905
+Lloyd's iter 11  dist_sq residual: 6.45304
+Processing chunk 57 with dimensions [115, 117)
+Selecting 256 pivots from 99700 points using random seed 283157910: ........done.
+Lloyd's iter 0  dist_sq residual: 8.06468
+Lloyd's iter 1  dist_sq residual: 7.44991
+Lloyd's iter 2  dist_sq residual: 7.2105
+Lloyd's iter 3  dist_sq residual: 7.06989
+Lloyd's iter 4  dist_sq residual: 6.97573
+Lloyd's iter 5  dist_sq residual: 6.90605
+Lloyd's iter 6  dist_sq residual: 6.85212
+Lloyd's iter 7  dist_sq residual: 6.80634
+Lloyd's iter 8  dist_sq residual: 6.76616
+Lloyd's iter 9  dist_sq residual: 6.73566
+Lloyd's iter 10  dist_sq residual: 6.71308
+Lloyd's iter 11  dist_sq residual: 6.69305
+Processing chunk 58 with dimensions [117, 119)
+Selecting 256 pivots from 99700 points using random seed 971227776: ........done.
+Lloyd's iter 0  dist_sq residual: 7.65915
+Lloyd's iter 1  dist_sq residual: 7.06282
+Lloyd's iter 2  dist_sq residual: 6.83891
+Lloyd's iter 3  dist_sq residual: 6.71515
+Lloyd's iter 4  dist_sq residual: 6.63643
+Lloyd's iter 5  dist_sq residual: 6.57612
+Lloyd's iter 6  dist_sq residual: 6.53021
+Lloyd's iter 7  dist_sq residual: 6.49647
+Lloyd's iter 8  dist_sq residual: 6.47154
+Lloyd's iter 9  dist_sq residual: 6.45155
+Lloyd's iter 10  dist_sq residual: 6.43466
+Lloyd's iter 11  dist_sq residual: 6.42015
+Processing chunk 59 with dimensions [119, 121)
+Selecting 256 pivots from 99700 points using random seed 1388885309: ........done.
+Lloyd's iter 0  dist_sq residual: 7.5354
+Lloyd's iter 1  dist_sq residual: 6.81382
+Lloyd's iter 2  dist_sq residual: 6.53165
+Lloyd's iter 3  dist_sq residual: 6.38477
+Lloyd's iter 4  dist_sq residual: 6.29423
+Lloyd's iter 5  dist_sq residual: 6.23031
+Lloyd's iter 6  dist_sq residual: 6.18211
+Lloyd's iter 7  dist_sq residual: 6.14008
+Lloyd's iter 8  dist_sq residual: 6.10736
+Lloyd's iter 9  dist_sq residual: 6.08426
+Lloyd's iter 10  dist_sq residual: 6.065
+Lloyd's iter 11  dist_sq residual: 6.0491
+Processing chunk 60 with dimensions [121, 123)
+Selecting 256 pivots from 99700 points using random seed 1191636611: ........done.
+Lloyd's iter 0  dist_sq residual: 7.41482
+Lloyd's iter 1  dist_sq residual: 6.83416
+Lloyd's iter 2  dist_sq residual: 6.60144
+Lloyd's iter 3  dist_sq residual: 6.47226
+Lloyd's iter 4  dist_sq residual: 6.39272
+Lloyd's iter 5  dist_sq residual: 6.33905
+Lloyd's iter 6  dist_sq residual: 6.29848
+Lloyd's iter 7  dist_sq residual: 6.2662
+Lloyd's iter 8  dist_sq residual: 6.2396
+Lloyd's iter 9  dist_sq residual: 6.21847
+Lloyd's iter 10  dist_sq residual: 6.19973
+Lloyd's iter 11  dist_sq residual: 6.18309
+Processing chunk 61 with dimensions [123, 125)
+Selecting 256 pivots from 99700 points using random seed 2244412455: ........done.
+Lloyd's iter 0  dist_sq residual: 7.21847
+Lloyd's iter 1  dist_sq residual: 6.64073
+Lloyd's iter 2  dist_sq residual: 6.43769
+Lloyd's iter 3  dist_sq residual: 6.33034
+Lloyd's iter 4  dist_sq residual: 6.25861
+Lloyd's iter 5  dist_sq residual: 6.20955
+Lloyd's iter 6  dist_sq residual: 6.17109
+Lloyd's iter 7  dist_sq residual: 6.1419
+Lloyd's iter 8  dist_sq residual: 6.11723
+Lloyd's iter 9  dist_sq residual: 6.0964
+Lloyd's iter 10  dist_sq residual: 6.07801
+Lloyd's iter 11  dist_sq residual: 6.06
+Processing chunk 62 with dimensions [125, 127)
+Selecting 256 pivots from 99700 points using random seed 1328433761: ........done.
+Lloyd's iter 0  dist_sq residual: 7.968
+Lloyd's iter 1  dist_sq residual: 7.28893
+Lloyd's iter 2  dist_sq residual: 7.04157
+Lloyd's iter 3  dist_sq residual: 6.90689
+Lloyd's iter 4  dist_sq residual: 6.81625
+Lloyd's iter 5  dist_sq residual: 6.74629
+Lloyd's iter 6  dist_sq residual: 6.68919
+Lloyd's iter 7  dist_sq residual: 6.64372
+Lloyd's iter 8  dist_sq residual: 6.60888
+Lloyd's iter 9  dist_sq residual: 6.58178
+Lloyd's iter 10  dist_sq residual: 6.55662
+Lloyd's iter 11  dist_sq residual: 6.53459
+Processing chunk 63 with dimensions [127, 129)
+Selecting 256 pivots from 99700 points using random seed 2482479030: ........done.
+Lloyd's iter 0  dist_sq residual: 8.14882
+Lloyd's iter 1  dist_sq residual: 7.51702
+Lloyd's iter 2  dist_sq residual: 7.27696
+Lloyd's iter 3  dist_sq residual: 7.14398
+Lloyd's iter 4  dist_sq residual: 7.05808
+Lloyd's iter 5  dist_sq residual: 6.99741
+Lloyd's iter 6  dist_sq residual: 6.9552
+Lloyd's iter 7  dist_sq residual: 6.91861
+Lloyd's iter 8  dist_sq residual: 6.88792
+Lloyd's iter 9  dist_sq residual: 6.86183
+Lloyd's iter 10  dist_sq residual: 6.83906
+Lloyd's iter 11  dist_sq residual: 6.82079
+Processing chunk 64 with dimensions [129, 131)
+Selecting 256 pivots from 99700 points using random seed 3394378164: ........done.
+Lloyd's iter 0  dist_sq residual: 9.07468
+Lloyd's iter 1  dist_sq residual: 8.30622
+Lloyd's iter 2  dist_sq residual: 8.01732
+Lloyd's iter 3  dist_sq residual: 7.84761
+Lloyd's iter 4  dist_sq residual: 7.74081
+Lloyd's iter 5  dist_sq residual: 7.66671
+Lloyd's iter 6  dist_sq residual: 7.61482
+Lloyd's iter 7  dist_sq residual: 7.57381
+Lloyd's iter 8  dist_sq residual: 7.54189
+Lloyd's iter 9  dist_sq residual: 7.51407
+Lloyd's iter 10  dist_sq residual: 7.49222
+Lloyd's iter 11  dist_sq residual: 7.47338
+Processing chunk 65 with dimensions [131, 133)
+Selecting 256 pivots from 99700 points using random seed 3216635464: ........done.
+Lloyd's iter 0  dist_sq residual: 7.40448
+Lloyd's iter 1  dist_sq residual: 6.76735
+Lloyd's iter 2  dist_sq residual: 6.53156
+Lloyd's iter 3  dist_sq residual: 6.39646
+Lloyd's iter 4  dist_sq residual: 6.30993
+Lloyd's iter 5  dist_sq residual: 6.24402
+Lloyd's iter 6  dist_sq residual: 6.1967
+Lloyd's iter 7  dist_sq residual: 6.16226
+Lloyd's iter 8  dist_sq residual: 6.13673
+Lloyd's iter 9  dist_sq residual: 6.11689
+Lloyd's iter 10  dist_sq residual: 6.10049
+Lloyd's iter 11  dist_sq residual: 6.08611
+Processing chunk 66 with dimensions [133, 135)
+Selecting 256 pivots from 99700 points using random seed 2316701942: ........done.
+Lloyd's iter 0  dist_sq residual: 7.16776
+Lloyd's iter 1  dist_sq residual: 6.61367
+Lloyd's iter 2  dist_sq residual: 6.39782
+Lloyd's iter 3  dist_sq residual: 6.27357
+Lloyd's iter 4  dist_sq residual: 6.18631
+Lloyd's iter 5  dist_sq residual: 6.12184
+Lloyd's iter 6  dist_sq residual: 6.07027
+Lloyd's iter 7  dist_sq residual: 6.03266
+Lloyd's iter 8  dist_sq residual: 6.0052
+Lloyd's iter 9  dist_sq residual: 5.98295
+Lloyd's iter 10  dist_sq residual: 5.96544
+Lloyd's iter 11  dist_sq residual: 5.951
+Processing chunk 67 with dimensions [135, 137)
+Selecting 256 pivots from 99700 points using random seed 3035558086: ........done.
+Lloyd's iter 0  dist_sq residual: 7.603
+Lloyd's iter 1  dist_sq residual: 6.99855
+Lloyd's iter 2  dist_sq residual: 6.79415
+Lloyd's iter 3  dist_sq residual: 6.69092
+Lloyd's iter 4  dist_sq residual: 6.6227
+Lloyd's iter 5  dist_sq residual: 6.57146
+Lloyd's iter 6  dist_sq residual: 6.53428
+Lloyd's iter 7  dist_sq residual: 6.50658
+Lloyd's iter 8  dist_sq residual: 6.48442
+Lloyd's iter 9  dist_sq residual: 6.46622
+Lloyd's iter 10  dist_sq residual: 6.45062
+Lloyd's iter 11  dist_sq residual: 6.4374
+Processing chunk 68 with dimensions [137, 139)
+Selecting 256 pivots from 99700 points using random seed 2348343658: ........done.
+Lloyd's iter 0  dist_sq residual: 7.6278
+Lloyd's iter 1  dist_sq residual: 6.90999
+Lloyd's iter 2  dist_sq residual: 6.65106
+Lloyd's iter 3  dist_sq residual: 6.5246
+Lloyd's iter 4  dist_sq residual: 6.43967
+Lloyd's iter 5  dist_sq residual: 6.38099
+Lloyd's iter 6  dist_sq residual: 6.34011
+Lloyd's iter 7  dist_sq residual: 6.30568
+Lloyd's iter 8  dist_sq residual: 6.27969
+Lloyd's iter 9  dist_sq residual: 6.25807
+Lloyd's iter 10  dist_sq residual: 6.239
+Lloyd's iter 11  dist_sq residual: 6.2224
+Processing chunk 69 with dimensions [139, 141)
+Selecting 256 pivots from 99700 points using random seed 1270096820: ........done.
+Lloyd's iter 0  dist_sq residual: 7.41712
+Lloyd's iter 1  dist_sq residual: 6.76558
+Lloyd's iter 2  dist_sq residual: 6.49167
+Lloyd's iter 3  dist_sq residual: 6.32843
+Lloyd's iter 4  dist_sq residual: 6.21422
+Lloyd's iter 5  dist_sq residual: 6.13835
+Lloyd's iter 6  dist_sq residual: 6.08484
+Lloyd's iter 7  dist_sq residual: 6.04432
+Lloyd's iter 8  dist_sq residual: 6.01266
+Lloyd's iter 9  dist_sq residual: 5.98948
+Lloyd's iter 10  dist_sq residual: 5.97
+Lloyd's iter 11  dist_sq residual: 5.95272
+Processing chunk 70 with dimensions [141, 143)
+Selecting 256 pivots from 99700 points using random seed 749321358: ........done.
+Lloyd's iter 0  dist_sq residual: 7.78233
+Lloyd's iter 1  dist_sq residual: 7.10406
+Lloyd's iter 2  dist_sq residual: 6.81867
+Lloyd's iter 3  dist_sq residual: 6.67639
+Lloyd's iter 4  dist_sq residual: 6.59792
+Lloyd's iter 5  dist_sq residual: 6.54665
+Lloyd's iter 6  dist_sq residual: 6.50656
+Lloyd's iter 7  dist_sq residual: 6.47566
+Lloyd's iter 8  dist_sq residual: 6.45234
+Lloyd's iter 9  dist_sq residual: 6.433
+Lloyd's iter 10  dist_sq residual: 6.41835
+Lloyd's iter 11  dist_sq residual: 6.40514
+Processing chunk 71 with dimensions [143, 145)
+Selecting 256 pivots from 99700 points using random seed 2839157272: ........done.
+Lloyd's iter 0  dist_sq residual: 8.25674
+Lloyd's iter 1  dist_sq residual: 7.63325
+Lloyd's iter 2  dist_sq residual: 7.36278
+Lloyd's iter 3  dist_sq residual: 7.20876
+Lloyd's iter 4  dist_sq residual: 7.11623
+Lloyd's iter 5  dist_sq residual: 7.05594
+Lloyd's iter 6  dist_sq residual: 7.01364
+Lloyd's iter 7  dist_sq residual: 6.97986
+Lloyd's iter 8  dist_sq residual: 6.95123
+Lloyd's iter 9  dist_sq residual: 6.92714
+Lloyd's iter 10  dist_sq residual: 6.90779
+Lloyd's iter 11  dist_sq residual: 6.89251
+Processing chunk 72 with dimensions [145, 147)
+Selecting 256 pivots from 99700 points using random seed 1961124258: ........done.
+Lloyd's iter 0  dist_sq residual: 7.2368
+Lloyd's iter 1  dist_sq residual: 6.66571
+Lloyd's iter 2  dist_sq residual: 6.45175
+Lloyd's iter 3  dist_sq residual: 6.33306
+Lloyd's iter 4  dist_sq residual: 6.25327
+Lloyd's iter 5  dist_sq residual: 6.19699
+Lloyd's iter 6  dist_sq residual: 6.15399
+Lloyd's iter 7  dist_sq residual: 6.12144
+Lloyd's iter 8  dist_sq residual: 6.09435
+Lloyd's iter 9  dist_sq residual: 6.07416
+Lloyd's iter 10  dist_sq residual: 6.05742
+Lloyd's iter 11  dist_sq residual: 6.0431
+Processing chunk 73 with dimensions [147, 149)
+Selecting 256 pivots from 99700 points using random seed 2906346229: ........done.
+Lloyd's iter 0  dist_sq residual: 7.27208
+Lloyd's iter 1  dist_sq residual: 6.56674
+Lloyd's iter 2  dist_sq residual: 6.31839
+Lloyd's iter 3  dist_sq residual: 6.18783
+Lloyd's iter 4  dist_sq residual: 6.11068
+Lloyd's iter 5  dist_sq residual: 6.05924
+Lloyd's iter 6  dist_sq residual: 6.01922
+Lloyd's iter 7  dist_sq residual: 5.98808
+Lloyd's iter 8  dist_sq residual: 5.96374
+Lloyd's iter 9  dist_sq residual: 5.94279
+Lloyd's iter 10  dist_sq residual: 5.92595
+Lloyd's iter 11  dist_sq residual: 5.91256
+Processing chunk 74 with dimensions [149, 151)
+Selecting 256 pivots from 99700 points using random seed 2333666209: ........done.
+Lloyd's iter 0  dist_sq residual: 7.97838
+Lloyd's iter 1  dist_sq residual: 7.24617
+Lloyd's iter 2  dist_sq residual: 6.99652
+Lloyd's iter 3  dist_sq residual: 6.86412
+Lloyd's iter 4  dist_sq residual: 6.77988
+Lloyd's iter 5  dist_sq residual: 6.72225
+Lloyd's iter 6  dist_sq residual: 6.6771
+Lloyd's iter 7  dist_sq residual: 6.64228
+Lloyd's iter 8  dist_sq residual: 6.61644
+Lloyd's iter 9  dist_sq residual: 6.59431
+Lloyd's iter 10  dist_sq residual: 6.57505
+Lloyd's iter 11  dist_sq residual: 6.55791
+Processing chunk 75 with dimensions [151, 153)
+Selecting 256 pivots from 99700 points using random seed 2723656941: ........done.
+Lloyd's iter 0  dist_sq residual: 7.0524
+Lloyd's iter 1  dist_sq residual: 6.45768
+Lloyd's iter 2  dist_sq residual: 6.23861
+Lloyd's iter 3  dist_sq residual: 6.10902
+Lloyd's iter 4  dist_sq residual: 6.02581
+Lloyd's iter 5  dist_sq residual: 5.96462
+Lloyd's iter 6  dist_sq residual: 5.91802
+Lloyd's iter 7  dist_sq residual: 5.87938
+Lloyd's iter 8  dist_sq residual: 5.84595
+Lloyd's iter 9  dist_sq residual: 5.81914
+Lloyd's iter 10  dist_sq residual: 5.79854
+Lloyd's iter 11  dist_sq residual: 5.78008
+Processing chunk 76 with dimensions [153, 155)
+Selecting 256 pivots from 99700 points using random seed 4082224694: ........done.
+Lloyd's iter 0  dist_sq residual: 7.75686
+Lloyd's iter 1  dist_sq residual: 7.15319
+Lloyd's iter 2  dist_sq residual: 6.90598
+Lloyd's iter 3  dist_sq residual: 6.76905
+Lloyd's iter 4  dist_sq residual: 6.68366
+Lloyd's iter 5  dist_sq residual: 6.62191
+Lloyd's iter 6  dist_sq residual: 6.57281
+Lloyd's iter 7  dist_sq residual: 6.53528
+Lloyd's iter 8  dist_sq residual: 6.50504
+Lloyd's iter 9  dist_sq residual: 6.47769
+Lloyd's iter 10  dist_sq residual: 6.45501
+Lloyd's iter 11  dist_sq residual: 6.43601
+Processing chunk 77 with dimensions [155, 157)
+Selecting 256 pivots from 99700 points using random seed 1101791147: ........done.
+Lloyd's iter 0  dist_sq residual: 7.98773
+Lloyd's iter 1  dist_sq residual: 7.31623
+Lloyd's iter 2  dist_sq residual: 7.05763
+Lloyd's iter 3  dist_sq residual: 6.91322
+Lloyd's iter 4  dist_sq residual: 6.82448
+Lloyd's iter 5  dist_sq residual: 6.76581
+Lloyd's iter 6  dist_sq residual: 6.72166
+Lloyd's iter 7  dist_sq residual: 6.68628
+Lloyd's iter 8  dist_sq residual: 6.65812
+Lloyd's iter 9  dist_sq residual: 6.63573
+Lloyd's iter 10  dist_sq residual: 6.61886
+Lloyd's iter 11  dist_sq residual: 6.60291
+Processing chunk 78 with dimensions [157, 159)
+Selecting 256 pivots from 99700 points using random seed 2576442364: ........done.
+Lloyd's iter 0  dist_sq residual: 7.83515
+Lloyd's iter 1  dist_sq residual: 7.13291
+Lloyd's iter 2  dist_sq residual: 6.85328
+Lloyd's iter 3  dist_sq residual: 6.69387
+Lloyd's iter 4  dist_sq residual: 6.59567
+Lloyd's iter 5  dist_sq residual: 6.53149
+Lloyd's iter 6  dist_sq residual: 6.48267
+Lloyd's iter 7  dist_sq residual: 6.4411
+Lloyd's iter 8  dist_sq residual: 6.41174
+Lloyd's iter 9  dist_sq residual: 6.38817
+Lloyd's iter 10  dist_sq residual: 6.36888
+Lloyd's iter 11  dist_sq residual: 6.35158
+Processing chunk 79 with dimensions [159, 161)
+Selecting 256 pivots from 99700 points using random seed 3693356188: ........done.
+Lloyd's iter 0  dist_sq residual: 7.28323
+Lloyd's iter 1  dist_sq residual: 6.62005
+Lloyd's iter 2  dist_sq residual: 6.3795
+Lloyd's iter 3  dist_sq residual: 6.24975
+Lloyd's iter 4  dist_sq residual: 6.16892
+Lloyd's iter 5  dist_sq residual: 6.11445
+Lloyd's iter 6  dist_sq residual: 6.07712
+Lloyd's iter 7  dist_sq residual: 6.04956
+Lloyd's iter 8  dist_sq residual: 6.02535
+Lloyd's iter 9  dist_sq residual: 6.00747
+Lloyd's iter 10  dist_sq residual: 5.99254
+Lloyd's iter 11  dist_sq residual: 5.97875
+Processing chunk 80 with dimensions [161, 163)
+Selecting 256 pivots from 99700 points using random seed 3646791107: ........done.
+Lloyd's iter 0  dist_sq residual: 7.76238
+Lloyd's iter 1  dist_sq residual: 7.09219
+Lloyd's iter 2  dist_sq residual: 6.83841
+Lloyd's iter 3  dist_sq residual: 6.6967
+Lloyd's iter 4  dist_sq residual: 6.60703
+Lloyd's iter 5  dist_sq residual: 6.54719
+Lloyd's iter 6  dist_sq residual: 6.50429
+Lloyd's iter 7  dist_sq residual: 6.46885
+Lloyd's iter 8  dist_sq residual: 6.43993
+Lloyd's iter 9  dist_sq residual: 6.41503
+Lloyd's iter 10  dist_sq residual: 6.39163
+Lloyd's iter 11  dist_sq residual: 6.37248
+Processing chunk 81 with dimensions [163, 165)
+Selecting 256 pivots from 99700 points using random seed 2550333282: ........done.
+Lloyd's iter 0  dist_sq residual: 7.18635
+Lloyd's iter 1  dist_sq residual: 6.58341
+Lloyd's iter 2  dist_sq residual: 6.349
+Lloyd's iter 3  dist_sq residual: 6.22543
+Lloyd's iter 4  dist_sq residual: 6.15161
+Lloyd's iter 5  dist_sq residual: 6.10002
+Lloyd's iter 6  dist_sq residual: 6.06004
+Lloyd's iter 7  dist_sq residual: 6.02665
+Lloyd's iter 8  dist_sq residual: 6.0006
+Lloyd's iter 9  dist_sq residual: 5.97915
+Lloyd's iter 10  dist_sq residual: 5.96206
+Lloyd's iter 11  dist_sq residual: 5.94794
+Processing chunk 82 with dimensions [165, 167)
+Selecting 256 pivots from 99700 points using random seed 2880671427: ........done.
+Lloyd's iter 0  dist_sq residual: 7.24302
+Lloyd's iter 1  dist_sq residual: 6.6958
+Lloyd's iter 2  dist_sq residual: 6.48927
+Lloyd's iter 3  dist_sq residual: 6.38043
+Lloyd's iter 4  dist_sq residual: 6.30627
+Lloyd's iter 5  dist_sq residual: 6.25124
+Lloyd's iter 6  dist_sq residual: 6.21059
+Lloyd's iter 7  dist_sq residual: 6.17586
+Lloyd's iter 8  dist_sq residual: 6.14878
+Lloyd's iter 9  dist_sq residual: 6.12548
+Lloyd's iter 10  dist_sq residual: 6.10539
+Lloyd's iter 11  dist_sq residual: 6.08814
+Processing chunk 83 with dimensions [167, 169)
+Selecting 256 pivots from 99700 points using random seed 4032551427: ........done.
+Lloyd's iter 0  dist_sq residual: 7.55055
+Lloyd's iter 1  dist_sq residual: 6.94831
+Lloyd's iter 2  dist_sq residual: 6.73133
+Lloyd's iter 3  dist_sq residual: 6.60846
+Lloyd's iter 4  dist_sq residual: 6.5296
+Lloyd's iter 5  dist_sq residual: 6.47538
+Lloyd's iter 6  dist_sq residual: 6.43512
+Lloyd's iter 7  dist_sq residual: 6.40252
+Lloyd's iter 8  dist_sq residual: 6.37818
+Lloyd's iter 9  dist_sq residual: 6.35676
+Lloyd's iter 10  dist_sq residual: 6.33965
+Lloyd's iter 11  dist_sq residual: 6.32544
+Processing chunk 84 with dimensions [169, 171)
+Selecting 256 pivots from 99700 points using random seed 1443508422: ........done.
+Lloyd's iter 0  dist_sq residual: 7.63185
+Lloyd's iter 1  dist_sq residual: 7.00215
+Lloyd's iter 2  dist_sq residual: 6.7795
+Lloyd's iter 3  dist_sq residual: 6.64951
+Lloyd's iter 4  dist_sq residual: 6.56497
+Lloyd's iter 5  dist_sq residual: 6.51244
+Lloyd's iter 6  dist_sq residual: 6.47608
+Lloyd's iter 7  dist_sq residual: 6.44853
+Lloyd's iter 8  dist_sq residual: 6.42677
+Lloyd's iter 9  dist_sq residual: 6.40886
+Lloyd's iter 10  dist_sq residual: 6.39368
+Lloyd's iter 11  dist_sq residual: 6.38006
+Processing chunk 85 with dimensions [171, 173)
+Selecting 256 pivots from 99700 points using random seed 1477415792: ........done.
+Lloyd's iter 0  dist_sq residual: 7.94822
+Lloyd's iter 1  dist_sq residual: 7.26196
+Lloyd's iter 2  dist_sq residual: 7.02576
+Lloyd's iter 3  dist_sq residual: 6.89231
+Lloyd's iter 4  dist_sq residual: 6.80759
+Lloyd's iter 5  dist_sq residual: 6.7478
+Lloyd's iter 6  dist_sq residual: 6.70349
+Lloyd's iter 7  dist_sq residual: 6.66541
+Lloyd's iter 8  dist_sq residual: 6.63226
+Lloyd's iter 9  dist_sq residual: 6.60422
+Lloyd's iter 10  dist_sq residual: 6.58067
+Lloyd's iter 11  dist_sq residual: 6.56133
+Processing chunk 86 with dimensions [173, 175)
+Selecting 256 pivots from 99700 points using random seed 4261428834: ........done.
+Lloyd's iter 0  dist_sq residual: 7.69711
+Lloyd's iter 1  dist_sq residual: 7.05133
+Lloyd's iter 2  dist_sq residual: 6.81558
+Lloyd's iter 3  dist_sq residual: 6.6925
+Lloyd's iter 4  dist_sq residual: 6.61496
+Lloyd's iter 5  dist_sq residual: 6.55714
+Lloyd's iter 6  dist_sq residual: 6.50684
+Lloyd's iter 7  dist_sq residual: 6.46691
+Lloyd's iter 8  dist_sq residual: 6.4355
+Lloyd's iter 9  dist_sq residual: 6.41075
+Lloyd's iter 10  dist_sq residual: 6.39036
+Lloyd's iter 11  dist_sq residual: 6.37388
+Processing chunk 87 with dimensions [175, 177)
+Selecting 256 pivots from 99700 points using random seed 2852230574: ........done.
+Lloyd's iter 0  dist_sq residual: 7.73313
+Lloyd's iter 1  dist_sq residual: 7.1624
+Lloyd's iter 2  dist_sq residual: 6.93511
+Lloyd's iter 3  dist_sq residual: 6.80728
+Lloyd's iter 4  dist_sq residual: 6.72034
+Lloyd's iter 5  dist_sq residual: 6.65246
+Lloyd's iter 6  dist_sq residual: 6.59588
+Lloyd's iter 7  dist_sq residual: 6.54997
+Lloyd's iter 8  dist_sq residual: 6.51421
+Lloyd's iter 9  dist_sq residual: 6.48688
+Lloyd's iter 10  dist_sq residual: 6.46548
+Lloyd's iter 11  dist_sq residual: 6.4495
+Processing chunk 88 with dimensions [177, 179)
+Selecting 256 pivots from 99700 points using random seed 3602805642: ........done.
+Lloyd's iter 0  dist_sq residual: 7.73491
+Lloyd's iter 1  dist_sq residual: 7.02291
+Lloyd's iter 2  dist_sq residual: 6.76319
+Lloyd's iter 3  dist_sq residual: 6.62527
+Lloyd's iter 4  dist_sq residual: 6.5385
+Lloyd's iter 5  dist_sq residual: 6.4732
+Lloyd's iter 6  dist_sq residual: 6.42524
+Lloyd's iter 7  dist_sq residual: 6.38835
+Lloyd's iter 8  dist_sq residual: 6.35939
+Lloyd's iter 9  dist_sq residual: 6.33509
+Lloyd's iter 10  dist_sq residual: 6.31651
+Lloyd's iter 11  dist_sq residual: 6.30171
+Processing chunk 89 with dimensions [179, 181)
+Selecting 256 pivots from 99700 points using random seed 1164821407: ........done.
+Lloyd's iter 0  dist_sq residual: 8.2525
+Lloyd's iter 1  dist_sq residual: 7.57966
+Lloyd's iter 2  dist_sq residual: 7.33886
+Lloyd's iter 3  dist_sq residual: 7.20126
+Lloyd's iter 4  dist_sq residual: 7.10612
+Lloyd's iter 5  dist_sq residual: 7.03547
+Lloyd's iter 6  dist_sq residual: 6.98212
+Lloyd's iter 7  dist_sq residual: 6.9431
+Lloyd's iter 8  dist_sq residual: 6.91263
+Lloyd's iter 9  dist_sq residual: 6.88782
+Lloyd's iter 10  dist_sq residual: 6.86719
+Lloyd's iter 11  dist_sq residual: 6.84979
+Processing chunk 90 with dimensions [181, 183)
+Selecting 256 pivots from 99700 points using random seed 3895118480: ........done.
+Lloyd's iter 0  dist_sq residual: 7.51477
+Lloyd's iter 1  dist_sq residual: 6.8681
+Lloyd's iter 2  dist_sq residual: 6.62259
+Lloyd's iter 3  dist_sq residual: 6.4906
+Lloyd's iter 4  dist_sq residual: 6.40115
+Lloyd's iter 5  dist_sq residual: 6.33416
+Lloyd's iter 6  dist_sq residual: 6.28028
+Lloyd's iter 7  dist_sq residual: 6.23883
+Lloyd's iter 8  dist_sq residual: 6.20461
+Lloyd's iter 9  dist_sq residual: 6.17848
+Lloyd's iter 10  dist_sq residual: 6.1575
+Lloyd's iter 11  dist_sq residual: 6.14041
+Processing chunk 91 with dimensions [183, 185)
+Selecting 256 pivots from 99700 points using random seed 2621045869: ........done.
+Lloyd's iter 0  dist_sq residual: 8.09857
+Lloyd's iter 1  dist_sq residual: 7.47195
+Lloyd's iter 2  dist_sq residual: 7.25305
+Lloyd's iter 3  dist_sq residual: 7.12934
+Lloyd's iter 4  dist_sq residual: 7.04016
+Lloyd's iter 5  dist_sq residual: 6.97123
+Lloyd's iter 6  dist_sq residual: 6.91586
+Lloyd's iter 7  dist_sq residual: 6.87191
+Lloyd's iter 8  dist_sq residual: 6.83476
+Lloyd's iter 9  dist_sq residual: 6.80671
+Lloyd's iter 10  dist_sq residual: 6.78249
+Lloyd's iter 11  dist_sq residual: 6.76323
+Processing chunk 92 with dimensions [185, 187)
+Selecting 256 pivots from 99700 points using random seed 2255483686: ........done.
+Lloyd's iter 0  dist_sq residual: 7.50951
+Lloyd's iter 1  dist_sq residual: 6.84931
+Lloyd's iter 2  dist_sq residual: 6.61702
+Lloyd's iter 3  dist_sq residual: 6.49393
+Lloyd's iter 4  dist_sq residual: 6.41876
+Lloyd's iter 5  dist_sq residual: 6.36709
+Lloyd's iter 6  dist_sq residual: 6.32972
+Lloyd's iter 7  dist_sq residual: 6.2995
+Lloyd's iter 8  dist_sq residual: 6.27415
+Lloyd's iter 9  dist_sq residual: 6.25217
+Lloyd's iter 10  dist_sq residual: 6.23099
+Lloyd's iter 11  dist_sq residual: 6.21389
+Processing chunk 93 with dimensions [187, 189)
+Selecting 256 pivots from 99700 points using random seed 2316661377: ........done.
+Lloyd's iter 0  dist_sq residual: 7.98746
+Lloyd's iter 1  dist_sq residual: 7.3295
+Lloyd's iter 2  dist_sq residual: 7.06788
+Lloyd's iter 3  dist_sq residual: 6.90825
+Lloyd's iter 4  dist_sq residual: 6.80398
+Lloyd's iter 5  dist_sq residual: 6.72851
+Lloyd's iter 6  dist_sq residual: 6.67669
+Lloyd's iter 7  dist_sq residual: 6.63842
+Lloyd's iter 8  dist_sq residual: 6.60634
+Lloyd's iter 9  dist_sq residual: 6.58104
+Lloyd's iter 10  dist_sq residual: 6.55908
+Lloyd's iter 11  dist_sq residual: 6.54055
+Processing chunk 94 with dimensions [189, 191)
+Selecting 256 pivots from 99700 points using random seed 2251720929: ........done.
+Lloyd's iter 0  dist_sq residual: 7.38882
+Lloyd's iter 1  dist_sq residual: 6.82272
+Lloyd's iter 2  dist_sq residual: 6.62176
+Lloyd's iter 3  dist_sq residual: 6.51337
+Lloyd's iter 4  dist_sq residual: 6.44386
+Lloyd's iter 5  dist_sq residual: 6.39395
+Lloyd's iter 6  dist_sq residual: 6.35623
+Lloyd's iter 7  dist_sq residual: 6.3247
+Lloyd's iter 8  dist_sq residual: 6.296
+Lloyd's iter 9  dist_sq residual: 6.27135
+Lloyd's iter 10  dist_sq residual: 6.25041
+Lloyd's iter 11  dist_sq residual: 6.23254
+Processing chunk 95 with dimensions [191, 193)
+Selecting 256 pivots from 99700 points using random seed 1647097275: ........done.
+Lloyd's iter 0  dist_sq residual: 7.41494
+Lloyd's iter 1  dist_sq residual: 6.823
+Lloyd's iter 2  dist_sq residual: 6.60512
+Lloyd's iter 3  dist_sq residual: 6.48715
+Lloyd's iter 4  dist_sq residual: 6.40335
+Lloyd's iter 5  dist_sq residual: 6.33605
+Lloyd's iter 6  dist_sq residual: 6.28638
+Lloyd's iter 7  dist_sq residual: 6.24819
+Lloyd's iter 8  dist_sq residual: 6.22094
+Lloyd's iter 9  dist_sq residual: 6.19776
+Lloyd's iter 10  dist_sq residual: 6.18023
+Lloyd's iter 11  dist_sq residual: 6.16556
+Processing chunk 96 with dimensions [193, 195)
+Selecting 256 pivots from 99700 points using random seed 474737662: ........done.
+Lloyd's iter 0  dist_sq residual: 7.68207
+Lloyd's iter 1  dist_sq residual: 7.06221
+Lloyd's iter 2  dist_sq residual: 6.83146
+Lloyd's iter 3  dist_sq residual: 6.70924
+Lloyd's iter 4  dist_sq residual: 6.63107
+Lloyd's iter 5  dist_sq residual: 6.57597
+Lloyd's iter 6  dist_sq residual: 6.53399
+Lloyd's iter 7  dist_sq residual: 6.4997
+Lloyd's iter 8  dist_sq residual: 6.4703
+Lloyd's iter 9  dist_sq residual: 6.44664
+Lloyd's iter 10  dist_sq residual: 6.42454
+Lloyd's iter 11  dist_sq residual: 6.4073
+Processing chunk 97 with dimensions [195, 197)
+Selecting 256 pivots from 99700 points using random seed 3800340264: ........done.
+Lloyd's iter 0  dist_sq residual: 7.36357
+Lloyd's iter 1  dist_sq residual: 6.78189
+Lloyd's iter 2  dist_sq residual: 6.60092
+Lloyd's iter 3  dist_sq residual: 6.5034
+Lloyd's iter 4  dist_sq residual: 6.43966
+Lloyd's iter 5  dist_sq residual: 6.38717
+Lloyd's iter 6  dist_sq residual: 6.34116
+Lloyd's iter 7  dist_sq residual: 6.30332
+Lloyd's iter 8  dist_sq residual: 6.27148
+Lloyd's iter 9  dist_sq residual: 6.24604
+Lloyd's iter 10  dist_sq residual: 6.22498
+Lloyd's iter 11  dist_sq residual: 6.20749
+Processing chunk 98 with dimensions [197, 199)
+Selecting 256 pivots from 99700 points using random seed 1413400401: ........done.
+Lloyd's iter 0  dist_sq residual: 8.16295
+Lloyd's iter 1  dist_sq residual: 7.3898
+Lloyd's iter 2  dist_sq residual: 7.09275
+Lloyd's iter 3  dist_sq residual: 6.94872
+Lloyd's iter 4  dist_sq residual: 6.86401
+Lloyd's iter 5  dist_sq residual: 6.81002
+Lloyd's iter 6  dist_sq residual: 6.77332
+Lloyd's iter 7  dist_sq residual: 6.74399
+Lloyd's iter 8  dist_sq residual: 6.7213
+Lloyd's iter 9  dist_sq residual: 6.70166
+Lloyd's iter 10  dist_sq residual: 6.68497
+Lloyd's iter 11  dist_sq residual: 6.67035
+Processing chunk 99 with dimensions [199, 201)
+Selecting 256 pivots from 99700 points using random seed 3363681069: ........done.
+Lloyd's iter 0  dist_sq residual: 7.70151
+Lloyd's iter 1  dist_sq residual: 7.02567
+Lloyd's iter 2  dist_sq residual: 6.77718
+Lloyd's iter 3  dist_sq residual: 6.62278
+Lloyd's iter 4  dist_sq residual: 6.5205
+Lloyd's iter 5  dist_sq residual: 6.45158
+Lloyd's iter 6  dist_sq residual: 6.3987
+Lloyd's iter 7  dist_sq residual: 6.35777
+Lloyd's iter 8  dist_sq residual: 6.32734
+Lloyd's iter 9  dist_sq residual: 6.30111
+Lloyd's iter 10  dist_sq residual: 6.27977
+Lloyd's iter 11  dist_sq residual: 6.26281
+Writing bin: /home/node/ann/dataset/index/index_pq_pivots.bin
+bin: #pts = 256, #dims = 201, size = 205832B
+Finished writing bin.
+Writing bin: /home/node/ann/dataset/index/index_pq_pivots.bin_centroid.bin
+bin: #pts = 201, #dims = 1, size = 812B
+Finished writing bin.
+Writing bin: /home/node/ann/dataset/index/index_pq_pivots.bin_rearrangement_perm.bin
+bin: #pts = 201, #dims = 1, size = 812B
+Finished writing bin.
+Writing bin: /home/node/ann/dataset/index/index_pq_pivots.bin_chunk_offsets.bin
+bin: #pts = 101, #dims = 1, size = 412B
+Finished writing bin.
+Opened: /home/node/ann/dataset/index/index_prepped_base.bin, size: 8040000008, cache_size: 67108864
+ Stat(/home/node/ann/dataset/index/index_pq_pivots.bin) returned: 0
+Reading bin file /home/node/ann/dataset/index/index_pq_pivots.bin_centroid.bin ...
+Metadata: #pts = 201, #dims = 1...
+Reading bin file /home/node/ann/dataset/index/index_pq_pivots.bin_rearrangement_perm.bin ...
+Metadata: #pts = 201, #dims = 1...
+Reading bin file /home/node/ann/dataset/index/index_pq_pivots.bin_chunk_offsets.bin ...
+Metadata: #pts = 101, #dims = 1...
+Reading bin file /home/node/ann/dataset/index/index_pq_pivots.bin ...
+Metadata: #pts = 256, #dims = 201...
+Loaded PQ pivot information
+tcmalloc: large alloc 2000003072 bytes == 0x55db6677e000 @  0x7f1e23579680 0x7f1e23599ff4 0x55db4dd12d67 0x55db4dd11b17 0x55db4dca8f10 0x55db4dc9ba7f 0x55db4dc9b292 0x7f1e1b90f0b3 0x55db4dc9a3ae
+tcmalloc: large alloc 4020002816 bytes == 0x55dbddad8000 @  0x7f1e23579680 0x7f1e23599ff4 0x55db4dcb2fca 0x55db4dd11b70 0x55db4dca8f10 0x55db4dc9ba7f 0x55db4dc9b292 0x7f1e1b90f0b3 0x55db4dc9a3ae
+tcmalloc: large alloc 4020002816 bytes == 0x55dccdc9e000 @  0x7f1e23579680 0x7f1e23599ff4 0x55db4dcb2fca 0x55db4dd11b94 0x55db4dca8f10 0x55db4dc9ba7f 0x55db4dc9b292 0x7f1e1b90f0b3 0x55db4dc9a3ae
+tcmalloc: large alloc 4020002816 bytes == 0x55ddbd664000 @  0x7f1e23579680 0x7f1e23599ff4 0x55db4dcb2fca 0x55db4dd11bb8 0x55db4dca8f10 0x55db4dc9ba7f 0x55db4dc9b292 0x7f1e1b90f0b3 0x55db4dc9a3ae
+Processing points  [0, 5000000)..tcmalloc: large alloc 5120000000 bytes == 0x55dead82a000 @  0x7f1e23579680 0x7f1e23599ff4 0x55db4dd5bd90 0x55db4dd1212e 0x55db4dca8f10 0x55db4dc9ba7f 0x55db4dc9b292 0x7f1e1b90f0b3 0x55db4dc9a3ae
+tcmalloc: large alloc 5120000000 bytes == 0x55dead82a000 @  0x7f1e23579680 0x7f1e23599ff4 0x55db4dd5bd90 0x55db4dd1212e 0x55db4dca8f10 0x55db4dc9ba7f 0x55db4dc9b292 0x7f1e1b90f0b3 0x55db4dc9a3ae
+tcmalloc: large alloc 5120000000 bytes == 0x55dead82a000 @  0x7f1e23579680 0x7f1e23599ff4 0x55db4dd5bd90 0x55db4dd1212e 0x55db4dca8f10 0x55db4dc9ba7f 0x55db4dc9b292 0x7f1e1b90f0b3 0x55db4dc9a3ae
+tcmalloc: large alloc 5120000000 bytes == 0x55dead82a000 @  0x7f1e23579680 0x7f1e23599ff4 0x55db4dd5bd90 0x55db4dd1212e 0x55db4dca8f10 0x55db4dc9ba7f 0x55db4dc9b292 0x7f1e1b90f0b3 0x55db4dc9a3ae
+tcmalloc: large alloc 5120000000 bytes == 0x55dead82a000 @  0x7f1e23579680 0x7f1e23599ff4 0x55db4dd5bd90 0x55db4dd1212e 0x55db4dca8f10 0x55db4dc9ba7f 0x55db4dc9b292 0x7f1e1b90f0b3 0x55db4dc9a3ae
+tcmalloc: large alloc 5120000000 bytes == 0x55dead82a000 @  0x7f1e23579680 0x7f1e23599ff4 0x55db4dd5bd90 0x55db4dd1212e 0x55db4dca8f10 0x55db4dc9ba7f 0x55db4dc9b292 0x7f1e1b90f0b3 0x55db4dc9a3ae
+tcmalloc: large alloc 5120000000 bytes == 0x55dead82a000 @  0x7f1e23579680 0x7f1e23599ff4 0x55db4dd5bd90 0x55db4dd1212e 0x55db4dca8f10 0x55db4dc9ba7f 0x55db4dc9b292 0x7f1e1b90f0b3 0x55db4dc9a3ae
+tcmalloc: large alloc 5120000000 bytes == 0x55dead82a000 @  0x7f1e23579680 0x7f1e23599ff4 0x55db4dd5bd90 0x55db4dd1212e 0x55db4dca8f10 0x55db4dc9ba7f 0x55db4dc9b292 0x7f1e1b90f0b3 0x55db4dc9a3ae
+tcmalloc: large alloc 5120000000 bytes == 0x55dead82a000 @  0x7f1e23579680 0x7f1e23599ff4 0x55db4dd5bd90 0x55db4dd1212e 0x55db4dca8f10 0x55db4dc9ba7f 0x55db4dc9b292 0x7f1e1b90f0b3 0x55db4dc9a3ae
+tcmalloc: large alloc 5120000000 bytes == 0x55dead82a000 @  0x7f1e23579680 0x7f1e23599ff4 0x55db4dd5bd90 0x55db4dd1212e 0x55db4dca8f10 0x55db4dc9ba7f 0x55db4dc9b292 0x7f1e1b90f0b3 0x55db4dc9a3ae
+.done.
+Processing points  [5000000, 10000000)...done.
+Full index fits in RAM budget, should consume at most 16.0299GiBs, so building in one shot
+Number of frozen points = 0
+Reading bin file /home/node/ann/dataset/index/index_prepped_base.bin ...Metadata: #pts = 10000000, #dims = 201, aligned_dim = 208...allocating aligned memory, 8320000000 bytes...tcmalloc: large alloc 8320000000 bytes == 0x55dead82a000 @  0x7f1e23579680 0x7f1e2359a824 0x55db4dca0c21 0x55db4dcb998c 0x55db4dcb39f5 0x55db4dcc5e11 0x55db4dcab626 0x55db4dca905d 0x55db4dc9ba7f 0x55db4dc9b292 0x7f1e1b90f0b3 0x55db4dc9a3ae
+done. Copying data... done.
+Using AVX2 distance computation
+Starting index build...
+Number of syncs: 2442
+Completed  (round: 0, sync: 25/2442 with L 100) sync_time: 4.051s; inter_time: 0.3579s
+Completed  (round: 0, sync: 147/2442 with L 100) sync_time: 36.35s; inter_time: 0.9287s
+Completed  (round: 0, sync: 269/2442 with L 100) sync_time: 45.53s; inter_time: 1.035s
+Completed  (round: 0, sync: 391/2442 with L 100) sync_time: 49.59s; inter_time: 1.043s
+Completed  (round: 0, sync: 513/2442 with L 100) sync_time: 51.93s; inter_time: 1.064s
+Completed  (round: 0, sync: 635/2442 with L 100) sync_time: 53.6s; inter_time: 1.028s
+Completed  (round: 0, sync: 758/2442 with L 100) sync_time: 52.85s; inter_time: 1.027s
+Completed  (round: 0, sync: 880/2442 with L 100) sync_time: 43.92s; inter_time: 1.019s
+Completed  (round: 0, sync: 1002/2442 with L 100) sync_time: 43.75s; inter_time: 0.9743s
+Completed  (round: 0, sync: 1124/2442 with L 100) sync_time: 43.49s; inter_time: 0.9201s
+Completed  (round: 0, sync: 1246/2442 with L 100) sync_time: 41.18s; inter_time: 0.926s
+Completed  (round: 0, sync: 1368/2442 with L 100) sync_time: 41.4s; inter_time: 0.9668s
+Completed  (round: 0, sync: 1490/2442 with L 100) sync_time: 41.69s; inter_time: 0.8807s
+Completed  (round: 0, sync: 1612/2442 with L 100) sync_time: 42.69s; inter_time: 0.8752s
+Completed  (round: 0, sync: 1734/2442 with L 100) sync_time: 43.7s; inter_time: 0.8448s
+Completed  (round: 0, sync: 1856/2442 with L 100) sync_time: 44.7s; inter_time: 0.8812s
+Completed  (round: 0, sync: 1979/2442 with L 100) sync_time: 45.91s; inter_time: 0.8641s
+Completed  (round: 0, sync: 2101/2442 with L 100) sync_time: 46.13s; inter_time: 0.8641s
+Completed  (round: 0, sync: 2223/2442 with L 100) sync_time: 45.23s; inter_time: 0.8306s
+Completed  (round: 0, sync: 2345/2442 with L 100) sync_time: 43.34s; inter_time: 0.8103s
+Completed Pass 0 of data using L=100 and alpha=1. Stats: search+prune_time=861s, inter_time=18.14s, inter_count=22473
+Completed  (round: 1, sync: 25/2442 with L 100) sync_time: 11.23s; inter_time: 1.465s
+Completed  (round: 1, sync: 147/2442 with L 100) sync_time: 53.09s; inter_time: 5.872s
+Completed  (round: 1, sync: 269/2442 with L 100) sync_time: 56.05s; inter_time: 5.334s
+Completed  (round: 1, sync: 391/2442 with L 100) sync_time: 59.92s; inter_time: 6.093s
+Completed  (round: 1, sync: 513/2442 with L 100) sync_time: 64.21s; inter_time: 7.916s
+Completed  (round: 1, sync: 635/2442 with L 100) sync_time: 68.55s; inter_time: 9.426s
+Completed  (round: 1, sync: 758/2442 with L 100) sync_time: 73.45s; inter_time: 10.51s
+Completed  (round: 1, sync: 880/2442 with L 100) sync_time: 76.96s; inter_time: 11.53s
+Completed  (round: 1, sync: 1002/2442 with L 100) sync_time: 80.83s; inter_time: 12.24s
+Completed  (round: 1, sync: 1124/2442 with L 100) sync_time: 84.49s; inter_time: 12.9s
+Completed  (round: 1, sync: 1246/2442 with L 100) sync_time: 87.72s; inter_time: 13.6s
+Completed  (round: 1, sync: 1368/2442 with L 100) sync_time: 90.52s; inter_time: 14.91s
+Completed  (round: 1, sync: 1490/2442 with L 100) sync_time: 93.17s; inter_time: 16.34s
+Completed  (round: 1, sync: 1612/2442 with L 100) sync_time: 95.77s; inter_time: 17.69s
+Completed  (round: 1, sync: 1734/2442 with L 100) sync_time: 97.84s; inter_time: 18.97s
+Completed  (round: 1, sync: 1856/2442 with L 100) sync_time: 99.89s; inter_time: 20.21s
+Completed  (round: 1, sync: 1979/2442 with L 100) sync_time: 102.8s; inter_time: 21.49s
+Completed  (round: 1, sync: 2101/2442 with L 100) sync_time: 103.8s; inter_time: 22.47s
+Completed  (round: 1, sync: 2223/2442 with L 100) sync_time: 105.5s; inter_time: 23.49s
+Completed  (round: 1, sync: 2345/2442 with L 100) sync_time: 107s; inter_time: 24.41s
+Completed Pass 1 of data using L=100 and alpha=1.2. Stats: search+prune_time=1613s, inter_time=276.8s, inter_count=4566692
+Starting final cleanup..done. Link time: 3140s
+Degree: max:100  avg:100  min:100  count(deg<2):0
+Index built.
+Avg degree: 100
+Opened: /home/node/ann/dataset/index/index_prepped_base.bin, size: 8040000008, cache_size: 67108864
+ Tellg: 4040000016 as u64: 4040000016
+Opened: /home/node/ann/dataset/index/index_mem.index, size: 4040000016, cache_size: 67108864
+Opened: /home/node/ann/dataset/index/index_disk.index, cache_size: 67108864
+medoid: 4743833B
+max_node_len: 1208B
+nnodes_per_sector: 3B
+# sectors: 3333334
+Sector #0written
+Sector #100000written
+Sector #200000written
+Sector #300000written
+Sector #400000written
+Sector #500000written
+Sector #600000written
+Sector #700000written
+Sector #800000written
+Sector #900000written
+Sector #1000000written
+Sector #1100000written
+Sector #1200000written
+Sector #1300000written
+Sector #1400000written
+Sector #1500000written
+Sector #1600000written
+Sector #1700000written
+Sector #1800000written
+Sector #1900000written
+Sector #2000000written
+Sector #2100000written
+Sector #2200000written
+Sector #2300000written
+Sector #2400000written
+Sector #2500000written
+Sector #2600000written
+Sector #2700000written
+Sector #2800000written
+Sector #2900000written
+Sector #3000000written
+Sector #3100000written
+Sector #3200000written
+Sector #3300000written
+Output file written.
+Finished writing 13653340160B
+Opened: /home/node/ann/dataset/index/index_prepped_base.bin, size: 8040000008, cache_size: 67108864
+Loading base /home/node/ann/dataset/index/index_prepped_base.bin. #points: 10000000. #dim: 201.
+Wrote 150426 points to sample file: /home/node/ann/dataset/index/index_sample_data.bin
+Indexing time: 3651
